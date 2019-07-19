@@ -1,0 +1,5 @@
+create table CREATE_CRIMINAL_ELEMENTS (
+    ID varchar(100) not null,
+    SUBJECTIVE_ELEMENT_DESCRIPTION varchar(100),
+    OBJECTIVE_ELEMENT_DESCRIPTION varchar(100),
+);
